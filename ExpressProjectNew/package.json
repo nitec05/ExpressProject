@@ -1,0 +1,18 @@
+{
+  "name": "ExpressProjectNew",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.14.0",
+    "body-parser": "*",
+    "underscore": "*",
+    "mongodb": "*",
+    "sequelize": "*",
+    "sqlite3": "*",
+    "node-inspector": "*",
+    "jade": "*"
+  }
+}
